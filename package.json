@@ -1,5 +1,5 @@
 {
-  "name": "despliegue-enoc",
+  "name": "despliegue",
   "version": "1.0.0",
   "description": "Proyecto personal con Appwrite",
   "main": "index.js",
